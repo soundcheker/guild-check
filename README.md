@@ -1,2 +1,3 @@
-check error
 # guild-check
+check error
+complete again
